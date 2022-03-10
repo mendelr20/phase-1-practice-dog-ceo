@@ -76,6 +76,6 @@ document.addEventListener("DOMContentLoaded", () =>{
         ulContainer.innerHTML = ''
         renderLis(filteredBreedsLis)
     }
-    //getImages()
+    getImages()
     getBreeds()
 })
